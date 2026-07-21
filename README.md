@@ -70,3 +70,14 @@ as usual.
 ```bash
 python3 -m pytest -v
 ```
+cd \~/Analysis-dok
+cat >> README.md << 'EOF'
+
+## Implementation Plan Template (адаптивный)
+
+**Agent / Reasoning:** Claude Sonnet 4.6 / high reasoning  
+**Роль:** Bounded implementation executor
+
+**Goal:** Реализовать минимальный P7-shadow vertical slice...
+
+(продолжи сюда полный шаблон)
